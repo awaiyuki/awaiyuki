@@ -3,7 +3,6 @@
 ### Interests
 - Computer Graphics
 - Web Front-end
-- Mathematics ( Analysis, Topology, Number Theory, ... )
 
 ### Blog
 [harutea's blog](https://kihuntea.com)
