@@ -1,6 +1,7 @@
 ## Kihun Jang
 
 ### Interests
+- Game Development
 - Computer Graphics
 - Web Front-end
 
