@@ -1,6 +1,6 @@
 ## Kihun Jang
 
-장기훈 / 張基勳（チャン　ギフン）
+장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
 - Game Development
