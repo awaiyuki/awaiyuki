@@ -3,8 +3,8 @@
 장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
-- Game Development
 - Computer Graphics
+- Game Development
 - Web Front-end
 
 ### Blog
