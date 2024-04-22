@@ -3,9 +3,9 @@
 장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
+- Web Front-end / Back-end
 - Computer Graphics
 - Game Development
-- Web Front-end
 
 ### Blog
 [harutea's blog](https://kihuntea.com)
