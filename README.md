@@ -7,6 +7,14 @@
 - Computer Graphics
 - Game Development
 
+### Skills
+#### Languages
+C++, Python, JavaScript, GLSL, HTML, CSS
+
+#### Frameworks / Libraries
+- Graphics : OpenGL
+- Web : React, Three.js, Next.js
+
 ### Blog
 [harutea's blog](https://kihuntea.com)
 
