@@ -3,9 +3,8 @@
 장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
-- Web Frontend / Backend
 - Computer Graphics
-- Game Development
+- Web Frontend / Backend
 
 ### Skills
 #### Languages
