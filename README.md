@@ -6,6 +6,7 @@
 - Computer Graphics
 - Frontend
 - Backend
+- Photography
 
 ### Skills
 #### Languages
