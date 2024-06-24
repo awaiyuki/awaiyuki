@@ -4,7 +4,8 @@
 
 ### Interests
 - Computer Graphics
-- Web Frontend / Backend
+- Frontend
+- Backend
 
 ### Skills
 #### Languages
