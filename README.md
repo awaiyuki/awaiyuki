@@ -17,7 +17,7 @@ C++, Python, JavaScript, GLSL, HTML, CSS
 - Web : React, Three.js, Next.js
 
 ### Currently Learning
-- Functional Programming(Haskell, Elixir)
+- Functional Programming (with Haskell, Elixir)
 - Spring Boot
 
 ### Blog
