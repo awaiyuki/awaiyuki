@@ -16,6 +16,10 @@ C++, Python, JavaScript, GLSL, HTML, CSS
 - Graphics : OpenGL
 - Web : React, Three.js, Next.js
 
+### Currently Learning
+- Functional Programming(Haskell, Elixir)
+- Spring Boot
+
 ### Blog
 [harutea's blog](https://kihuntea.com)
 
