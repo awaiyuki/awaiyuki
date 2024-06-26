@@ -4,6 +4,9 @@
 
 ### Interests
 - Computer Graphics
+  - Fluid Simulation
+  - Viscous Fluid Simulation
+  - Ocean Simulation
 - Frontend
 - Backend
 - Photography
@@ -18,6 +21,7 @@ C++, Python, JavaScript, GLSL, HTML, CSS
 
 ### Currently Learning
 - Functional Programming (with Haskell, Elixir)
+- Metal
 - Spring Boot
 
 ### Blog
