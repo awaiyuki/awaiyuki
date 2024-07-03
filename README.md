@@ -5,7 +5,6 @@
 ### Interests
 - Computer Graphics
   - Fluid Simulation
-  - Viscous Fluid Simulation
   - Ocean Simulation
 - Frontend
 - Backend
