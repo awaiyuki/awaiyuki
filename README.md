@@ -12,7 +12,8 @@
 
 ### Skills
 #### Languages
-C++, Python, JavaScript, GLSL, HTML, CSS
+- Programming Language : C++, Python, JavaScript, GLSL, HTML, CSS
+- Natural Language : Japanese(JLPT N1)
 
 #### Frameworks / Libraries
 - Graphics : OpenGL
