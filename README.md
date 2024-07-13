@@ -7,7 +7,6 @@
   - Fluid Simulation
   - Ocean Simulation
 - Frontend
-- Backend
 - Photography
 
 ### Skills
@@ -20,7 +19,7 @@
 - Web : React, Three.js, Next.js
 
 ### Currently Learning
-- Functional Programming (with Haskell, Elixir)
+- Functional Programming (with Haskell)
 - Metal
 - Spring Boot
 
