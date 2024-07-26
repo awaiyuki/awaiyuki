@@ -11,12 +11,16 @@
 
 ### Skills
 #### Languages
-- Programming Languages : C++, Python, JavaScript, GLSL, HTML, CSS
-- Natural Languages : Korean(Native), Japanese(JLPT N1)
+- Programming Languages
+  - C++, Python, JavaScript
+- Shading Languages
+  - GLSL
+- Natural Languages
+  - Korean(Native), Japanese(JLPT N1)
 
 #### Frameworks / Libraries
-- Graphics : OpenGL
-- Web : React, Three.js, Next.js
+- Graphics: OpenGL
+- Web: React, Three.js, Next.js
 
 ### Currently Learning
 - Functional Programming (with Haskell)
