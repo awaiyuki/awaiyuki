@@ -18,7 +18,7 @@
 - Natural Languages
   - Korean(Native), Japanese(JLPT N1)
 
-#### Frameworks / Libraries
+#### Frameworks / Libraries / API
 - Graphics: OpenGL
 - Web: React, Three.js, Next.js
 
