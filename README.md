@@ -20,6 +20,7 @@
 
 #### Frameworks / Libraries / API
 - Graphics: OpenGL
+- GPGPU: CUDA
 - Web: React, Three.js, Next.js
 
 ### Currently Learning
