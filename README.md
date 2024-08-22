@@ -25,7 +25,6 @@
 
 ### Currently Learning
 - Functional Programming (with Haskell)
-- Metal
 - Spring Boot
 
 ### Blog
