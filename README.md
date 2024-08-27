@@ -6,7 +6,7 @@
 - Computer Graphics
   - Fluid Simulation
   - Ocean Simulation
-- Frontend
+- Web
 - Photography
 
 ### Skills
