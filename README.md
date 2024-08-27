@@ -4,8 +4,6 @@
 
 ### Interests
 - Computer Graphics
-  - Fluid Simulation
-  - Ocean Simulation
 - Web
 - Photography
 
