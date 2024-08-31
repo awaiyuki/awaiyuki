@@ -21,12 +21,9 @@
 - GPGPU: CUDA
 - Web: React, Three.js, Next.js
 
-### Currently Learning
-- Functional Programming (with Haskell)
-- Spring Boot
-
 ### Blog
 [harutea's blog](https://kihuntea.com)
+
 
 <!--
 **harutea/harutea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
