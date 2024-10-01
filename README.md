@@ -5,6 +5,7 @@
 ### Interests
 - Computer Graphics
 - Web
+- Artificial Intelligence (Recently)
 - Photography
 
 ### Skills
