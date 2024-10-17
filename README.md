@@ -23,7 +23,7 @@
 - Web: React, Three.js, Next.js
 
 ### Blog
-[harutea's blog](https://kihuntea.com)
+[yukiaware's blog](https://kihuntea.com)
 
 
 <!--
