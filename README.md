@@ -4,6 +4,7 @@
 
 ### Interests
 - Artificial Intelligence
+- Generative Art
 - Computer Graphics
 - Web
 - Photography
