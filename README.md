@@ -3,8 +3,8 @@
 장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
-- Generative Art
 - Computer Graphics
+- Generative Art
 - Artificial Intelligence
 - Web
 - Photography
