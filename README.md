@@ -5,7 +5,6 @@
 ### Interests
 - Computer Graphics
 - Generative Art
-- Artificial Intelligence
 - Web
 - Photography
 
@@ -19,9 +18,9 @@
   - Korean(Native), Japanese(JLPT N1)
 
 #### Frameworks / Libraries / API
-- Graphics: OpenGL
+- Web: React, Next.js
+- Graphics: OpenGL, Three.js
 - GPGPU: CUDA
-- Web: React, Three.js, Next.js
 
 ### Blog
 [yukiaware's blog](https://kihuntea.com)
