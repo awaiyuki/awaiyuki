@@ -9,20 +9,6 @@
 - Web
 - Photography
 
-### Skills
-#### Languages
-- Programming Languages
-  - C++, Python, JavaScript
-- Shading Languages
-  - GLSL
-- Natural Languages
-  - Korean(Native), Japanese(JLPT N1)
-
-#### Frameworks / Libraries / API
-- Web: React, Next.js
-- Graphics: OpenGL, Three.js
-- GPGPU: CUDA
-
 ### Blog
 [yukiaware's blog](https://kihuntea.com)
 
