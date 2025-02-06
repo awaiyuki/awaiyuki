@@ -10,7 +10,7 @@
 - Photography
 
 ### Blog
-[yukiaware's blog](https://kihuntea.com)
+[awaiyuki's blog](https://kihuntea.com)
 
 
 <!--
