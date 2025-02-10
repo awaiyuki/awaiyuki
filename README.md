@@ -3,11 +3,10 @@
 장기훈 / 張基勳（チャン・ギフン）
 
 ### Interests
+- Web
+- Artificial Intelligence
 - Computer Graphics
 - Generative Art
-- Artificial Intelligence
-- Web
-- Photography
 
 ### Blog
 [awaiyuki](https://kihuntea.com)
