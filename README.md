@@ -8,6 +8,7 @@
 - Computer Graphics
 - Functional Programming
 - Generative Art
+- Mathematics
 - Photography
 
 ### Blog
