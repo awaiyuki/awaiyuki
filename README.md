@@ -6,7 +6,9 @@
 - Web
 - Artificial Intelligence
 - Computer Graphics
+- Functional Programming
 - Generative Art
+- Photography
 
 ### Blog
 [awaiyuki](https://kihuntea.com)
