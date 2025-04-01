@@ -1,6 +1,7 @@
-## Kihun Jang
+## Awayuki Asuki (Jang Kihun)
 
-장기훈 / 張基勳（チャン・ギフン）
+- Business Name: 淡雪明日輝 (Awayuki Asuki)
+- Real Name: 장기훈（Jang Kihun）
 
 ### Interests
 - Web
