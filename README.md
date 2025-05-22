@@ -3,6 +3,9 @@
 - Business Name: Awayuki Asuki (淡雪明日輝)
 - Real Name: Jang Kihun
 
+### Academic background
+- B.S. in Computer Science and Engineering
+
 ### Interests
 - Web
 - Artificial Intelligence
