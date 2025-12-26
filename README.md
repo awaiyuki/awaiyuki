@@ -10,7 +10,7 @@
 - Web
 - Artificial Intelligence
 - Computer Graphics
-- Functional Programming, Lambda Calculus
+- Lambda Calculus
 - Generative Art
 - Mathematics
 - Photography
