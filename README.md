@@ -6,15 +6,6 @@
 ### Academic background
 - B.S. in Computer Science and Engineering
 
-### Interests
-- Web
-- Artificial Intelligence
-- Computer Graphics
-- Lambda Calculus
-- Generative Art
-- Mathematics
-- Photography
-
 ### Blog
 [awaiyuki](https://kihuntea.com)
 
