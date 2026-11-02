@@ -4,7 +4,7 @@
 - Real Name: Jang Kihun
 
 ### Academic background
-- B.S. in Computer Science and Engineering from Chung-Ang University
+- B.S. in Computer Science and Engineering from Chung-Ang University, Seoul, South Korea
 
 ### Blog
 [awaiyuki](https://kihuntea.com)
